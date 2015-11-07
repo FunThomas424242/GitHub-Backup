@@ -20,7 +20,7 @@ Installation is simple with
 	pip install pygithub3
 
 or use installer
-* wget https://github.com/FunThomas424242/GitHub-Backup/blob/master/install.sh
+* wget https://raw.githubusercontent.com/FunThomas424242/GitHub-Backup/master/install.sh
 * chmod +x install.sh
 * ./install.sh
 
